@@ -1,6 +1,7 @@
 # Tampilan Website Ardo Damarjati // 2502040455
 
 ![banner](https://github.com/ArdoD/profile_web/tree/master/public/img/banner-navbar.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/banner-navbar.png)
 ![aboutme](https://github.com/ArdoD/profile_web/tree/master/public/img/aboutme.png)
 ![principle](https://github.com/ArdoD/profile_web/tree/master/public/img/principle.png)
 ![education](https://github.com/ArdoD/profile_web/tree/master/public/img/education.png)
