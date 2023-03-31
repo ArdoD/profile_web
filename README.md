@@ -1,4 +1,4 @@
-![banner](http://url/to/banner-navbar.png)
+![banner](https://github.com/ArdoD/profile_web/tree/master/public/img/banner-navbar.png)
 ![aboutme](http://url/to/aboutme.png)
 ![principle](http://url/to/principle.png)
 ![education](http://url/to/education.png)
