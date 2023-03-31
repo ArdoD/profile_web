@@ -1,13 +1,11 @@
 # Tampilan Website Ardo Damarjati // 2502040455
-
-![banner](https://github.com/ArdoD/profile_web/tree/master/public/img/banner-navbar.png)
 ![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/banner-navbar.png)
-![aboutme](https://github.com/ArdoD/profile_web/tree/master/public/img/aboutme.png)
-![principle](https://github.com/ArdoD/profile_web/tree/master/public/img/principle.png)
-![education](https://github.com/ArdoD/profile_web/tree/master/public/img/education.png)
-![achievement](https://github.com/ArdoD/profile_web/tree/master/public/img/achievement.png)
-![skills](https://github.com/ArdoD/profile_web/tree/master/public/img/skills.png)
-![contact](https://github.com/ArdoD/profile_web/tree/master/public/img/contact.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/aboutme.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/principle.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/education.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/achievement.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/skills.png)
+![alt text](https://github.com/ArdoD/profile_web/blob/master/public/img/contact.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
