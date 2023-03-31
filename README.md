@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/ArdoD/profile_web/tree/master/public/img/banner-navbar.png)
 ![aboutme](https://github.com/ArdoD/profile_web/tree/master/public/img/aboutme.png)
-![principle]([http://url/to/](https://github.com/ArdoD/profile_web/tree/master/public/img/)principle.png)
+![principle](https://github.com/ArdoD/profile_web/tree/master/public/img/principle.png)
 ![education](https://github.com/ArdoD/profile_web/tree/master/public/img/education.png)
 ![achievement](https://github.com/ArdoD/profile_web/tree/master/public/img/achievement.png)
 ![skills](https://github.com/ArdoD/profile_web/tree/master/public/img/skills.png)
